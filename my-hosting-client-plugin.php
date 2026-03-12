@@ -2,9 +2,9 @@
 /*
 Plugin Name: My Hosting Client Plugin
 Description: 고객용 관리 플러그인 (SEO Meta / Open Graph + GitHub 업데이트)
-Version: 1.0.0
+Version: 1.0.1
 Author: Your Company
-Update URI: https://github.com/djangho/my-hosting-client-plugin
+Update URI: https://github.com/dojangho/my-hosting-client-plugin
 */
 
 if (!defined('ABSPATH')) {
