@@ -1,1 +1,0 @@
-Download library from https://github.com/YahnisElsts/plugin-update-checker and place it here.
